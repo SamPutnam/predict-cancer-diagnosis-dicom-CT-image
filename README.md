@@ -1,8 +1,15 @@
 Community AMI (has the 66gb dicom directory (curled from Kaggle, using login cookies))
 
-<img src="http://imgur.com/whwF5WS.png" width="800">
+<img src="http://i.imgur.com/rSh9BqZ.png" width="800">
 
 [kaggle.com](https://www.kaggle.com/c/data-science-bowl-2017)
 
+was public until 7 days ago ($$)
+<img src="http://i.imgur.com/dpT9rvo.png" width="800">
 
+prev image status
+<img src="http://i.imgur.com/c4E6hNM.png" width="800">
+
+image status now
+<img src="http://i.imgur.com/tOzpTRs.png" width="800">
 
