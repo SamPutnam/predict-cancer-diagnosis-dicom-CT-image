@@ -13,4 +13,4 @@ prev image status
 image status now
 <img src="http://i.imgur.com/tOzpTRs.png" width="800">
 
-Update: music generation image made private.
+Update: music generation image - BMK - made private.
