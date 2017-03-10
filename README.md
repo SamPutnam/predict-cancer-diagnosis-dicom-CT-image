@@ -1,5 +1,7 @@
 Community AMI (has the 66gb dicom directory (curled from Kaggle, using login cookies))
 
+sample_images.7z not unzippable on AWS Ubuntu. Now can curl from here. Community AMI is Public, searchable after Amazon updates it.
+
 <img src="http://i.imgur.com/rSh9BqZ.png" width="800">
 
 [kaggle.com](https://www.kaggle.com/c/data-science-bowl-2017)
